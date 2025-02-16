@@ -1,11 +1,11 @@
-# Tetris-LÖVE
+# Lua-Tetris
 
 A Tetris clone built with Lua and the LÖVE framework.
 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Tetris-LÖVE.git
+   git clone https://github.com/MateuszPalczynski/lua-tetris.git
    ```
 2. Run the game:
    - Drag the project folder onto `love.exe`
